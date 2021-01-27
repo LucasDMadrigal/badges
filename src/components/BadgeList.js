@@ -1,23 +1,24 @@
 import React from 'react';
 import Badges from '../pages/Badges';
-
+import BadgeListItem from './BadgeListItem'
+import './styles/BadgesList.css'
 class BadgeList extends React.Component {
     render() {
         return (
-            <ul className="list-unstyled">
-                {
-                    this.props.badges.map(badge => {
-                        return (
+            <div className="BadgesList">
+                <ul className="list-unstyled">
+                    {
+                        this.props.badges.map(badge => {
+                            return (
 
-                            <li key={badge.id}>
-                                <p>
-                                    {badge.firstName} {badge.lastName}
-                                </p>
-                            </li>
-                        )
-                    })
-                }
-            </ul>
+                                <li key={badge.id}>
+                                    < BadgeListItem badge={badge} />
+                                </li>
+                            )
+                        })
+                    }
+                </ul>
+            </div>
         )
     }
 }

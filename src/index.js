@@ -8,5 +8,5 @@ import Badges from './pages/Badges';
 
 const container = document.getElementById('app');
 // ReactDOM.render(_que_, _donde_);
-ReactDOM.render(< Badges
+ReactDOM.render(< App
 />, container);
