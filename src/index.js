@@ -1,20 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.css';
-
 import './global.css';
 import App from './components/App';
-
-import Badge from './components/Badge'
-import 'bootstrap/dist/css/bootstrap.css'
 import BadgeNew from './pages/BadgeNew';
+import Badges from './pages/Badges';
 
 const container = document.getElementById('app');
 // ReactDOM.render(_que_, _donde_);
-ReactDOM.render(< BadgeNew
-// firstName="Lucas"
-// lastName="Madrigal"
-// jobTitle="Frontend"
-// twitter="LucasDMadrigal"
-// avatarUrl="https://www.gravatar.com/avatar?d=identicon"
+ReactDOM.render(< Badges
 />, container);
