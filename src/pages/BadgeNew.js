@@ -15,8 +15,11 @@ class BadgeNew extends React.Component {
       twitter: "",
       jobTitle: "",
       email: "",
+      avatarUrl: ""
     }
+
   }
+
 
   handleChange = e => {
     this.setState({
@@ -29,7 +32,7 @@ class BadgeNew extends React.Component {
 
   handleSubmit = async e => {
     e.preventDefault()
-
+    console.log(this.state.form.email);
     this.setState({
       loading: true,
       error: null,

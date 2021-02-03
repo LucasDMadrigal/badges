@@ -452,71 +452,38 @@
     },
     {
       "firstName": "Lucas",
-      "lastName": "Madrigal",
+      "lastName": "Ramos",
+      "twitter": "belu_licenciada",
+      "jobTitle": "cosito",
+      "email": "bel@lala.com",
+      "avatarUrl": "bel@lala.com",
+      "id": "dLvh-Z0"
+    },
+    {
+      "firstName": "Lucas",
+      "lastName": "Ramos",
       "twitter": "lucas_cosito",
       "jobTitle": "Estudiandtequeuqueuuuttsss",
-      "email": "lucasmadrigalb@hotmail.com",
-      "avatarUrl": "https://gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?d=identicon",
-      "id": "Yt617fZ"
+      "email": "ramos.emiliabelen@gmail.com",
+      "avatarUrl": "ramos.emiliabelen@gmail.com",
+      "id": "-_7MKRD"
+    },
+    {
+      "firstName": "Lucas",
+      "lastName": "Ramos",
+      "twitter": "noePsico",
+      "jobTitle": "cosito",
+      "email": "noe@nieva.con",
+      "id": "o9041tz"
     },
     {
       "firstName": "Lucas",
       "lastName": "Ramos",
       "twitter": "belu_licenciada",
-      "jobTitle": "Licenciada",
-      "email": "ramos.emiliabelen@gmail.com",
-      "avatarUrl": "https://gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?d=identicon",
-      "id": "yPKkDcz"
-    },
-    {
-      "firstName": "belu",
-      "lastName": "Ramos",
-      "twitter": "belu_licenciada",
-      "jobTitle": "Licenciada",
-      "email": "bel@lala.com",
-      "avatarUrl": "https://gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?d=identicon",
-      "id": "LiKnxiJ"
-    },
-    {
-      "firstName": "belu",
-      "lastName": "Ramos",
-      "twitter": "belu_licenciada",
-      "jobTitle": "Licenciada",
-      "email": "bel@lala.com",
-      "avatarUrl": "https://gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?d=identicon",
-      "id": "O40HYW2"
-    },
-    {
-      "firstName": "Noe",
-      "lastName": "Nieva",
-      "twitter": "noePsico",
       "jobTitle": "psico",
-      "email": "noe@nieva.con",
-      "id": "e6bEEYp"
-    },
-    {
-      "firstName": "Noe",
-      "lastName": "Nieva",
-      "twitter": "noePsico",
-      "jobTitle": "psico",
-      "email": "noe@nieva.con",
-      "id": "fA7f7LK"
-    },
-    {
-      "firstName": "Noe",
-      "lastName": "Nieva",
-      "twitter": "noePsico",
-      "jobTitle": "psico",
-      "email": "noe@nieva.con",
-      "id": "lLRuxsx"
-    },
-    {
-      "firstName": "Noe",
-      "lastName": "Nieva",
-      "twitter": "noePsico",
-      "jobTitle": "psico",
-      "email": "noe@nieva.con",
-      "id": "6iTdylL"
+      "email": "belen_1593@hotmail.com",
+      "avatarUrl": "",
+      "id": "fZewNSd"
     }
   ]
 }

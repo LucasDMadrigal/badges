@@ -1,10 +1,16 @@
 import React from 'react';
-
+import Gravatar from './Gravatar'
 class BadgeListItem extends React.Component {
     render() {
         return (
             <div className="BadgesListItem">
-                <img className="BadgesListItem__avatar" src={this.props.badge.avatarUrl} alt="" />
+
+                <Gravatar className="BadgesListItem__avatar"
+                    className="BadgesListItem__avatar"
+                    email={this.props.badge.email}
+                />
+
+
                 {this.props.badge.firstName} {this.props.badge.lastName}
                 <br />
                 @{this.props.badge.twitter}
