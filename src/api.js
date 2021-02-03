@@ -29,6 +29,8 @@ const api = {
             // throw new Error('Not Found')
         },
         create(badge) {
+
+            // throw new Error('500: server Error')
             return callApi(`/badges`, {
                 method: 'POST',
                 body: JSON.stringify(badge),
